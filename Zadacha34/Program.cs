@@ -42,3 +42,4 @@ int Num = Convert.ToInt32(Console.ReadLine());
 int[] Array = Task34 (Num);
 ShowArray(Array);
 ArrayCount(Array);
+// Опробовать цикл foreach()
